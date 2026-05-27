@@ -1,1 +1,84 @@
-
+{
+  "title": "Geoportail Jacqueville - Open Data Catalogue",
+  "version": "1.0",
+  "updated": "2026-05-27",
+  "datasets": [
+    {
+      "id": "limites_departement",
+      "title": "Limites du département",
+      "category": "Administration",
+      "description": "Limites administratives de Jacqueville",
+      "type": "vector",
+      "format": "SHP",
+      "access": "open",
+      "file": "data/limites_departement.zip",
+      "size": "13.2 KB"
+    },
+    {
+      "id": "localites",
+      "title": "Localités",
+      "category": "Population",
+      "description": "Villages et quartiers géoréférencés",
+      "type": "vector",
+      "format": "SHP",
+      "access": "open",
+      "file": "data/localites.zip",
+      "size": "4.6 KB"
+    },
+    {
+      "id": "education",
+      "title": "Éducation",
+      "category": "Services sociaux",
+      "description": "Écoles, collèges, lycées",
+      "type": "vector",
+      "format": "SHP",
+      "access": "open",
+      "file": "data/education.zip",
+      "size": "6.0 KB"
+    },
+    {
+      "id": "sante",
+      "title": "Santé",
+      "category": "Services sociaux",
+      "description": "Structures sanitaires",
+      "type": "vector",
+      "format": "SHP",
+      "access": "open",
+      "file": "data/sante.zip",
+      "size": "4.5 KB"
+    },
+    {
+      "id": "cultes_culture",
+      "title": "Lieux de culte et culture",
+      "category": "Culture",
+      "description": "Églises, mosquées, lieux culturels",
+      "type": "vector",
+      "format": "SHP",
+      "access": "open",
+      "file": "data/culture.zip",
+      "size": "3.5 KB"
+    },
+    {
+      "id": "foret",
+      "title": "Forêts",
+      "category": "Environnement",
+      "description": "Zones forestières",
+      "type": "vector",
+      "format": "SHP",
+      "access": "open",
+      "file": "data/foret.zip",
+      "size": "2.4 MB"
+    },
+    {
+      "id": "lagune",
+      "title": "Lagune",
+      "category": "Hydrographie",
+      "description": "Lagune Ébrié et plans d’eau",
+      "type": "vector",
+      "format": "SHP",
+      "access": "open",
+      "file": "data/lagune.zip",
+      "size": "30 KB"
+    }
+  ]
+}
