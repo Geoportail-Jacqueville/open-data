@@ -41,16 +41,44 @@ Les données sont organisées par thématiques :
 - Lieux de culte
 - Équipements culturels et communautaires
 
+📁 Cartes
+
+Ce dossier regroupe les productions cartographiques réalisées dans le cadre du Géoportail Territorial de Jacqueville.
+
+La cartothèque a pour objectif de diffuser des cartes thématiques prêtes à l’utilisation pour :
+
+la planification territoriale
+la recherche scientifique
+l’aide à la décision
+les présentations institutionnelles
+les projets de développement
+
+Les cartes pourront inclure :
+
+cartes administratives
+cartes d’occupation du sol
+cartes environnementales
+cartes de risques
+cartes d’infrastructures
+cartes agricoles
+cartes touristiques
+analyses spatiales et cartes statistiques
+
+
 ---
 
 # 📦 Formats disponibles
 
 Les jeux de données sont fournis dans les formats standards SIG :
 
-- SHP (Shapefile)
+- SHP (Shapefile
 
 Tous les fichiers vectoriels sont compressés au format `.zip`.
 
+Les cartes de la cartothèque sont principalement fournies en
+
+PDF haute résolution
+PNG / JPEG
 ---
 
 # 🔓 Licence
@@ -110,6 +138,18 @@ data/
 
 
 Chaque dossier contient des fichiers `.zip` téléchargeables.
+
+# 🗺️ Cartothèque territoriale
+
+La cartothèque regroupe les cartes thématiques et documents visuels produits dans le cadre de l’Observatoire Territorial.
+
+Elle vise à :
+
+améliorer la diffusion de l’information géographique
+faciliter la compréhension des dynamiques territoriales
+fournir des supports d’aide à la décision accessibles aux institutions, chercheurs et partenaires
+
+Les cartes pourront être consultées, téléchargées ou intégrées dans des rapports et présentations selon les conditions de licence.
 
 ---
 
